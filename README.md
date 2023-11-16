@@ -1,12 +1,7 @@
-In this project, I employed Kaggle's Red Wine Quality dataset to develop machine learning models that can predict whether a given red wine is of "good quality" or not. Each wine in this dataset has a "quality" score between 0 and 10. For this project, I converted the output into a binary classification, labeling each wine as either "good quality" (a score of 7 or higher) or not (a score below 7). The quality of a wine is determined by 11 input variables:
-Fixed acidity
-Volatile acidity
-Citric acid
-Residual sugar
-Chlorides
-Free sulfur dioxide
-Total sulfur dioxide
-Density
-pH
-Sulfates
-Alcohol
+***Project Overview:
+
+This project aims to develop machine learning models that can accurately predict the quality of red wine using a dataset containing various characteristics of different red wines. The project utilizes the Red Wine Quality dataset from Kaggle, which provides information on 11 different features that influence wine quality, including alcohol content, acidity, and sugar content.
+
+***Objective:
+
+The primary objective of this project is to create classification models that can effectively distinguish between "good quality" red wines (score of 7 or higher) and "not good quality" red wines (score below 7). This binary classification will allow winemakers and consumers to make informed decisions regarding wine selection and consumption.
